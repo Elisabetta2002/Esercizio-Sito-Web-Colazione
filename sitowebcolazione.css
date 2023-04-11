@@ -1,0 +1,353 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-size: 14px;
+  }
+  
+  .sitoweb {
+    width: 100%;
+    height: 1989px;
+    background: rgba(255,255,255,1);
+    padding: 10px 10px;
+    margin: 10px;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  img.immaginefooter {
+    width: auto;
+    height: 575px;
+    background-position: center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1414px;
+    box-shadow: 0px -50px 100px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  img.instagram {
+    width: 46px;
+    height: 46px;
+    background-position: center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1889px;
+    left: 691px;
+    overflow: hidden;
+  }
+  img.twitter {
+    width: 46px;
+    height: 44px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1890px;
+    left: 630px;
+    overflow: hidden;
+  }
+  img.iconauova {
+    width: 61px;
+    height: 89px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1275px;
+    left: 170px;
+    overflow: hidden;
+  }
+  img.iconasucco {
+    width: 89px;
+    height: 126px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1257px;
+    left: 666px;
+    overflow: hidden;
+  }
+  img.iconamuffin {
+    width: 104px;
+    height: 107px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1276px;
+    left: 397px;
+    transform: rotate(-10deg);
+    overflow: hidden;
+  }
+  img.iconacereali {
+    width: 129px;
+    height: 138px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1251px;
+    left: 65px;
+    overflow: hidden;
+  }
+  img.iconacaffe {
+    width: 97px;
+    height: 74px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 641px;
+    left: 349px;
+    transform: rotate(-10deg);
+    overflow: hidden;
+  }
+  img.iconacroissant {
+    width: 100px;
+    height: 63px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 603px;
+    left: 457px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  img.iconasausage {
+    width: 157px;
+    height: 98px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1074px;
+    left: 122px;
+    overflow: hidden;
+  }
+  img.iconamoka {
+    width: 126px;
+    height: 101px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 565px;
+    left: 71px;
+    overflow: hidden;
+  }
+  img.iconatazza {
+    width: 80px;
+    height: 56px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 619px;
+    left: 41px;
+    transform: rotate(-10deg);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  .francia {
+    width: 214px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 734px;
+    left: 349px;
+    font-size: 16px;
+    opacity: 1;
+    text-align: center;
+  }
+  .inghilterra {
+    width: 217px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 918px;
+    left: 92px;
+    font-size: 16px;
+    opacity: 1;
+    text-align: center;
+  }
+  
+  img.immaginefrancia {
+    width: 251px;
+    height: 313px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 885px;
+    left: 330px;
+    overflow: hidden;
+  }
+  img.immagineusa {
+    width: 251px;
+    height: 313px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 572px;
+    left: 585px;
+    overflow: hidden;
+  }
+  img.immagineinglese {
+    width: 251px;
+    height: 313px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 572px;
+    left: 75px;
+    overflow: hidden;
+  }
+  img.immagineitaliana {
+    width: 251px;
+    height: 313px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 885px;
+    left: 4px;
+    overflow: hidden;
+  }
+  img.immaginetestata {
+    width: auto;
+    height: 574px;
+    background-position: center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+  }
+  .barra {
+    width: 100%;
+    height: 131px;
+    background: rgba(255,255,255,0.800000011920929);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+    margin-top: 0%;
+  }
+  .titolo {
+    width: 600px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 203px;
+    left: 52px;
+    text-shadow: 0px 4px 30px rgba(0, 0, 0, 1);
+    font-family: 'Bebas Neue', cursive;
+    font-weight: Regular;
+    font-size: 128px;
+    opacity: 1;
+    text-align: center;
+  }
+  .italia {
+    width: 217px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 606px;
+    left: 21px;
+    font-size: 16px;
+    opacity: 1;
+    text-align: center;
+  }
+  .usa {
+    width: 214px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 918px;
+    left: 604px;
+    font-size: 16px;
+    opacity: 1;
+    text-align: center;
+  }
+  
+  img.lente {
+    width: 38px;
+    height: 38px;
+    background-position: center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 787px;
+    transform: rotate(30deg);
+    overflow: hidden;
+  }
+  img.menu {
+    width: 43px;
+    height: 43px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 44px;
+    left: 52px;
+    overflow: hidden;
+  }
+  img.youtube {
+    width: 45px;
+    height: 45px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1890px;
+    left: 752px;
+    overflow: hidden;
+  }
+  img.tiktok {
+    width: 45px;
+    height: 45px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1890px;
+    left: 570px;
+    overflow: hidden;
+  }
+  .seguici {
+    width: 227px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1840px;
+    left: 570px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+  }
